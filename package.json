@@ -12,7 +12,7 @@
     "@types/styled-components": "^5.1.9",
     "antd": "^4.14.0",
     "axios": "^0.21.1",
-    "dotenv": "^8.2.0",
+    "dotenv": "^8.6.0",
     "file-loader": "^6.2.0",
     "gatsby": "^2.32.11",
     "gatsby-image": "^3.1.0",
